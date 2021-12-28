@@ -10,7 +10,7 @@ Windows Security features in setting should all be enabled:
 - Device performance & health
 - Family options
 
-All those features should be enabled, such as blocking all of three type of networks' incoming connections, etc. Secure boot should enabled in your BIOS or UEFI. If your computer has a tpm, no matter 1.2 or 2.0 version, this should be enabled. And if you reinstall Windows 10, you should do a "clear tpm" in Device security/Security processor/Security processor troubleshooting.
+All those features should be enabled, such as blocking all of three type of networks' incoming connections, etc. Secure boot should enabled in your BIOS or UEFI. If your computer has a tpm, no matter 1.2 or 2.0 version, this should be enabled. And if you reinstall Windows 10, you should do a "clear tpm" in `Device security/Security processor/Security processor troubleshooting`.
 
 Control Panel
 
