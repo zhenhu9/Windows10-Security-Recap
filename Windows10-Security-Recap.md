@@ -37,7 +37,6 @@ need it. Turn on System Protection and create a restore point.
 - Cloudflare: 1.1.1.1, 1.0.0.1; 2606:4700:4700::1111, 2606:4700:4700::1001
 - OpenDNS: 208.67.222.222, 208.67.220.220; 2620:0:ccc::2, 2620:0:ccd::2; 2620:119:35::35, 2620:119:53::53
 - Quad 9: 9.9.9.9, 149.112.112.112; 2620:fe::fe, 2620:fe::fe:9
-- Microsoft: 4.4.4.4
 
 **Note**: Ipv4 DNS support more features. There are some advises
 [here](https://support.opendns.com/hc/en-us/community/posts/245247727-What-are-the-IPv6-addresses-for-OpenDNS-).
